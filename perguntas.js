@@ -30,8 +30,8 @@ criaCartao(
 
 criaCartao(
 'Biologia',
-'',
-'')
+'Qual o nome do orgão reprodutor masculino?',
+'Pênis')
 
 criaCartao(
 'Matematica',
@@ -54,19 +54,19 @@ criaCartao(
 '1760')
     
 criaCartao(
-'Biologia',
-'quanto tempo em media uma mosca vive?',
-'28 dias')
+'Matemática',
+'Como é representado uma incógnita na matemática?',
+'É representado com "x"')
     
 criaCartao(
 'Português',
-'Quais são as características do realismo?',
-'')
+'O que é a metáfora?',
+'é uma figura de linguagem; mais particularmente, uma figura de palavra, pois apresenta uma palavra (ou expressão) com sentido figurado.')
 
 criaCartao(
 'Matematica',
-'Qual é a raiz quadrada de 144?',
-'12')
+'Qual o valor de PI?',
+'3,14')
         
 criaCartao(
 'Quimica',
