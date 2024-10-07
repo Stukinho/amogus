@@ -21,7 +21,7 @@ criaCartao(
 criaCartao(
 'Biologia',
 'O que faz uma organela?',
-'faz a digestão intracelular')
+'Faz a digestão intracelular')
 
 criaCartao(
 'Português',
@@ -70,15 +70,15 @@ criaCartao(
         
 criaCartao(
 'Quimica',
-'Quantos carbonos tem em uma cadeia de Cafeina?',
-'8')
+'Qual cientista propôs o primeiro modelo atômico moderno que ficou conhecido como “bola de bilhar”?',
+'John Dalton')
         
 criaCartao(
 'Geografia',
-'Em qual continente fica Madagascar?',
-'Africa')
+'Como é causado um terremoto?',
+'São provocados por movimentos na crosta terrestre, composta por enormes placas de rocha, chamadas de placas tectônicas.')
         
 criaCartao(
 'Historia',
-'Em que ano Adolf Hitler morreu?',
-'1945')
+'Quanto tempo durou a Era Vargas?',
+'15 Anos')
