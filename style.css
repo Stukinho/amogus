@@ -1,6 +1,6 @@
 :root{
     --fundo:#ffae00bb;
-    --cor-frente:#cd0000;
+    --cor-frente:#cd3a00;
     --cor-verso:#2cecb3;
     --destaque:#ff09ca;
     --preto:#000000;
@@ -38,4 +38,5 @@ footer{
 .conteudo-cartao{
     background-color: var(--cor-frente);
     height: 100%;
+    color: antiquewhite;
 }
