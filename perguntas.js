@@ -30,8 +30,8 @@ criaCartao(
 
 criaCartao(
 'Biologia',
-'Qual o nome do orgão reprodutor masculino?',
-'Pênis')
+'Qual o nome do orgão que sua principal tarefa é filtrar o sangue?',
+'Rim')
 
 criaCartao(
 'Matematica',
