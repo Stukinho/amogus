@@ -1,16 +1,16 @@
 criaCartao(
 'Geografia',
-'Questão 13: Qual é a primeira capital do Brasil?',
+'Questão 1: Qual é a primeira capital do Brasil?',
 'Salvador')
         
 criaCartao(
 'Historia',
-'Questão 14: Em que ano ocorreu a primeira revolução industrial?',
+'Questão 2: Em que ano ocorreu a primeira revolução industrial?',
 '1760')
         
 criaCartao(
 'Matemática',
-'Questão 15: Como é representado uma incógnita na matemática?',
+'Questão 3: Como é representado uma incógnita na matemática?',
 'É representado com "x"')
 
 criaCartao(
