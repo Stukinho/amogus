@@ -40,3 +40,8 @@ footer{
     height: 100%;
     text-align: center;
 }
+
+.conteudo-cartao-h3{
+    border: 1px solid var(--destaque);
+    border-radius: 6rem;
+    color: var(--destaque);
