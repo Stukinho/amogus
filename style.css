@@ -46,5 +46,8 @@ footer{
     border-radius: 6rem;
     color: var(--destaque);
     padding: 0.5rem;
-    margin: 0 5rem;
+    margin: 0.5rem;
+    position: absolute;
+    text-align: left;
+    font-size: 1.2vw;
 }
