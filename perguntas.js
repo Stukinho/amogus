@@ -1,17 +1,17 @@
 criaCartao(
 'Geografia',
-'Questão 1: Qual é a primeira capital do Brasil?',
-'Resposta = Salvador')
+'Questão 1: Quais são as fontes de energia não renováveis?',
+'Resposta = petróleo, carvão mineral, gás natural e nuclear.')
         
 criaCartao(
 'Historia',
-'Questão 2: Em que ano ocorreu a primeira revolução industrial?',
-'Resposta = 1760')
+'Questão 2: Quais são as características do mercantilismo?',
+'Resposta = Acúmulo de metais preciosos, incentivo à manufatura, intervenção do Estado na economia, balança comercial favorável e protecionismo.')
         
 criaCartao(
 'Matemática',
-'Questão 3: Como é representado uma incógnita na matemática?',
-'Resposta = É representado com "x"')
+'Questão 3: Qual é o antecessor de x-2?',
+'Resposta = x-1')
 
 criaCartao(
 'Matematica',
