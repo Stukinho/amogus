@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>amogus</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <a href="index.html">Página 1</a>
-        <a href="index2.html">Página 1</a>
-    </header>
-    <section id="container">
-
-    </section>
-
-<footer>
-<p>Desenvolvido por Otávio</p>
-</footer>
-<script src ="pagina2.js">
 function criaCartao (categoria, pergunta, resposta){
    let container = document.getElementById('container');
    let cartao = document.createElement('article');
