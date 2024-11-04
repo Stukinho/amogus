@@ -10,7 +10,7 @@ criaCartao(
         
 criaCartao(
 'Matemática',
-'Questão 3: Qual é o antecessor de x-2?',
+'Questão 3: Qual é o sucessor de x-2?',
 'Resposta = x-1')
 
 criaCartao(
