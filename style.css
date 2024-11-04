@@ -1,29 +1,29 @@
-:root{
-    --fundo:#ffae00bb;
-    --cor-frente:#c76b20;
-    --cor-verso:#2cecb3;
-    --destaque:#b42727b6;
-    --preto:#000000;
-    --branco:#ffffff;
+:root {
+    --fundo: #ffae00bb;
+    --cor-frente: #c76b20;
+    --cor-verso: #2cecb3;
+    --destaque: #b42727b6;
+    --preto: #000000;
+    --branco: #ffffff;
 }
 
-body{
+body {
     background-color: var(--fundo);
     margin: 0%;
 }
 
-header{
+header {
     background-color: var(--preto);
     display: flex;
     justify-content: space-around;
     padding: 2rem;
 }
 
-header a{
+header a {
     color: var(--branco);
 }
 
-footer{
+footer {
     position: fixed;
     bottom: 0;
     background-color: var(--preto);
@@ -32,21 +32,21 @@ footer{
     text-align: center;
 }
 
-#container{
+#container {
     padding: 4rem;
     display: flex;
     gap: 3rem;
     flex-wrap: wrap;
 }
 
-.cartao{
+.cartao {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
 }
 
-.conteudo-cartao{
+.conteudo-cartao {
     background-color: var(--cor-frente);
     height: 100%;
     text-align: center;
@@ -54,7 +54,7 @@ footer{
     transition: transform 300ms ease-in-out;
 }
 
-.conteudo-cartao h3{
+.conteudo-cartao h3 {
     border: 1px solid var(--destaque);
     border-radius: 6rem;
     color: var(--destaque);
@@ -66,17 +66,17 @@ footer{
     backface-visibility: hidden;
 }
 
-.conteudo-cartao p{
+.conteudo-cartao p {
     margin-top: 5rem;
     padding: 2rem;
     font-size: 1.4vw;
 }
 
-.pergunta-cartao{
+.pergunta-cartao {
     font-weight: 500;
 }
 
-.resposta-cartao{
+.resposta-cartao {
     font-weight: 700;
     color: var(--destaque);
     background-color: var(--cor-verso);
@@ -84,13 +84,13 @@ footer{
     transform: rotateY(180deg);
 }
 
-.cartao.active .conteudo-cartao{
+.cartao.active .conteudo-cartao {
     transform: rotateY(180deg);
 }
 
-.pergunta-cartao, .resposta-cartao{
+.pergunta-cartao, .resposta-cartao {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
-    width:100%;
+    width: 100%;
 }
