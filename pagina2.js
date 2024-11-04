@@ -25,4 +25,3 @@ function viraCartao(card){
 resposta.style.display = 'none';
     }
 }
-</script>
