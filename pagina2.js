@@ -3,8 +3,8 @@ function criaCartao (categoria, pergunta, resposta){
    let cartao = document.createElement('article');
    cartao.className = 'cartao';
    cartao.innerHTML = `
-   <div class="conteudo-cartao">
-   onclick = "viraCartao(this)"
+   <div class="conteudo-cartao"
+   onclick = "viraCartao(this)">
     <h3>${categoria}</h3>
     <div class="pergunta-cartao">
         <p>${pergunta}</p>
